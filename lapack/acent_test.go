@@ -12,9 +12,9 @@ package lapack
 import (
 	"errors"
 	"fmt"
-	"github.com/hrautila/linalg"
-	"github.com/hrautila/linalg/blas"
-	"github.com/hrautila/matrix"
+	"github.com/nvcook42/linalg"
+	"github.com/nvcook42/linalg/blas"
+	"github.com/nvcook42/matrix"
 	"math"
 	"testing"
 )

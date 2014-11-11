@@ -1,7 +1,7 @@
 package lapack
 
 import (
-	"github.com/hrautila/matrix"
+	"github.com/nvcook42/matrix"
 	"testing"
 )
 

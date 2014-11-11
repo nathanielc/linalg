@@ -7,8 +7,8 @@
 package lapack
 
 import (
-	"github.com/hrautila/linalg"
-	"github.com/hrautila/matrix"
+	"github.com/nvcook42/linalg"
+	"github.com/nvcook42/matrix"
 	//"errors"
 	"fmt"
 )

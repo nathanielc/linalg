@@ -1,6 +1,6 @@
 // Copyright (c) Harri Rautila, 2012
 
-// This file is part of github.com/hrautila/linalg/blas package. 
+// This file is part of github.com/nvcook42/linalg/blas package. 
 // It is free software, distributed under the terms of GNU Lesser General Public 
 // License Version 3, or any later version. See the COPYING tile included in this archive.
 
@@ -8,8 +8,8 @@ package blas
 
 import (
 	"fmt"
-	"github.com/hrautila/linalg"
-	"github.com/hrautila/matrix"
+	"github.com/nvcook42/linalg"
+	"github.com/nvcook42/matrix"
 	"testing"
 )
 

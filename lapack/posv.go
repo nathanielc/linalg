@@ -1,6 +1,6 @@
 // Copyright (c) Harri Rautila, 2012,2013
 
-// This file is part of github.com/hrautila/linalg/lapack package.
+// This file is part of github.com/nvcook42/linalg/lapack package.
 // It is free software, distributed under the terms of GNU Lesser General Public 
 // License Version 3, or any later version. See the COPYING tile included in this archive.
 
@@ -9,8 +9,8 @@ package lapack
 import (
 	//"errors"
 	"fmt"
-	"github.com/hrautila/linalg"
-	"github.com/hrautila/matrix"
+	"github.com/nvcook42/linalg"
+	"github.com/nvcook42/matrix"
 )
 
 /*
